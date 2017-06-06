@@ -114,7 +114,7 @@ Method allows to open dialog window. It creates new dialog instance on each call
 
 ## Troubleshooting
 Problems? Check the [Issues](https://github.com/agilie/ng2-dialog-window/issues) block 
-to find the solution or create an new issue that we will fix asap. Feel free to contribute.
+to find the solution or create a new issue that we will fix asap. Feel free to contribute.
 
 ## Author
 This Angular module is open-sourced by [Agilie Team](https://www.agilie.com) <info@agilie.com>
