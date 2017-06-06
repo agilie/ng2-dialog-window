@@ -61,7 +61,7 @@ export class AppComponent {
         
     }
     
-    openMe() {
+    openModal() {
         this.dialog.openModal(this.viewContainer, {component: YourDialogWindowComponent})
     }
 
