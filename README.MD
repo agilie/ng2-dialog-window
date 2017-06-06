@@ -86,7 +86,7 @@ export class YourDialogWindowComponent extends Ng2DialogWindowComponent {
 
 Here is the list of accessible methods that you can use:
 
-####```Ng2ModalWindowService```
+#### ```Ng2ModalWindowService```
 
 ```.openModal(viewContainerRef, options)```
 
@@ -94,7 +94,7 @@ Method allows to open dialog window. Creates new dialog instance on each call. I
 
 ```viewContainerRef {viewContainerRef}``` - viewContainerRef of current component
 
-#####```options```
+##### ```options```
 
 ```component {Component}``` - dialog window component
 
