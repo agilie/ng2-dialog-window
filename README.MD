@@ -9,7 +9,7 @@ Dialog window module which allows to open dialog window using custom components.
 To install this module, run:
 
 ```bash
-$ npm install ng2-dialog-window --save
+$ npm install @agilie/ng2-dialog-window --save
 ```
 
 ## Usage
