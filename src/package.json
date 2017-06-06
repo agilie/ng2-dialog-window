@@ -1,6 +1,6 @@
 {
   "name": "@agilie/ng2-dialog-window",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Modal dialogs and popups module for Angular applications",
   "scripts": {
     "build": "gulp build",

@@ -18,7 +18,7 @@ $ npm install ng2-dialog-window --save
 import { NgModule } from '@angular/core';
 import { YourDialogWindowComponent } from './component/path'
 import { AppComponent } from './app.component'
-import { Ng2ModalWindowModule, Ng2ModalWindowService } from 'ng2-modal-window';
+import { Ng2ModalWindowModule, Ng2DialogWindowService } from 'ng2-modal-window';
 
  
 @NgModule({
@@ -33,7 +33,7 @@ import { Ng2ModalWindowModule, Ng2ModalWindowService } from 'ng2-modal-window';
     ],
     providers: [
         //...
-        Ng2ModalWindowService
+        Ng2DialogWindowService
     ],
     //...
     entryComponents: [
@@ -47,7 +47,7 @@ export class AppModule {
 
 ```typescript
 import { Component, ViewContainerRef } from '@angular/core';
-import { Ng2ModalWindowService } from 'ng2-modal-window';
+import { Ng2DialogWindowService } from 'ng2-modal-window';
 import { YourDialogWindowComponent } from './component/path'
 
  
@@ -57,7 +57,7 @@ import { YourDialogWindowComponent } from './component/path'
 })
 export class AppComponent {
 
-    constructor( private dialog: Ng2ModalWindowService, private viewContainer: ViewContainerRef) {
+    constructor( private dialog: Ng2DialogWindowService, private viewContainer: ViewContainerRef) {
         
     }
     
@@ -88,7 +88,7 @@ export class YourDialogWindowComponent extends Ng2DialogWindowComponent {
 
 Here is the list of accessible methods that you can use:
 
-#### ```Ng2ModalWindowService```
+#### ```Ng2DialogWindowService```
 
 ```.openModal(viewContainerRef, options)```
 

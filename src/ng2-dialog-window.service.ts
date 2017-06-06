@@ -1,7 +1,7 @@
 import {Injectable, ComponentFactoryResolver} from '@angular/core';
 
 @Injectable()
-export class Ng2ModalWindowService {
+export class Ng2DialogWindowService {
 
   constructor(private componentFactoryResolver: ComponentFactoryResolver) {
 
