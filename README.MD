@@ -18,7 +18,7 @@ $ npm install @agilie/ng2-dialog-window --save
 import { NgModule } from '@angular/core';
 import { YourDialogWindowComponent } from './component/path'
 import { AppComponent } from './app.component'
-import { Ng2DialogWindowModule, Ng2DialogWindowService } from 'ng2-dialog-window';
+import { Ng2DialogWindowModule, Ng2DialogWindowService } from '@agilie/ng2-dialog-window';
 
  
 @NgModule({
@@ -47,7 +47,7 @@ export class AppModule {
 
 ```typescript
 import { Component, ViewContainerRef } from '@angular/core';
-import { Ng2DialogWindowService } from 'ng2-dialog-window';
+import { Ng2DialogWindowService } from '@agilie/ng2-dialog-window';
 import { YourDialogWindowComponent } from './component/path'
 
  
@@ -73,7 +73,7 @@ It seems like Angular doesn't provide any simple way to inherit styles from anot
 
 ```typescript
 import { Component } from '@angular/core';
-import { Ng2DialogWindowComponent } from 'ng2-dialog-window'
+import { Ng2DialogWindowComponent } from '@agilie/ng2-dialog-window'
 
 @Component({
   selector: 'my-dialog-window',
