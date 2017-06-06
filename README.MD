@@ -109,8 +109,10 @@ Method allows to open dialog window. It creates new dialog instance on each call
 ## TODOs
 
 1. Add more options (closeByClick, showCloseButton etc.)
-2. Add tests
-3. TBD
+2. Add possibility to open dialog window from services
+4. Add demo
+5. Add tests
+6. TBD
 
 ## Troubleshooting
 Problems? Check the [Issues](https://github.com/agilie/ng2-dialog-window/issues) block 

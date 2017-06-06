@@ -1,6 +1,6 @@
 {
   "name": "@agilie/ng2-dialog-window",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Modal dialogs and popups module for Angular applications",
   "scripts": {
     "build": "gulp build",
@@ -37,6 +37,6 @@
   "peerDependencies": {
     "@angular/core": "^2.0.0 || ^4.0.0",
     "rxjs": "^5.1.0",
-    "zone.js": "^ 0.7.8 || ^0.8.4"
+    "zone.js": "^0.7.8 || ^0.8.4"
   }
 }
