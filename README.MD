@@ -92,9 +92,9 @@ Here is the list of accessible methods that you can use:
 
 ```.openModal(viewContainerRef, options)```
 
-Method allows to open dialog window. Creates new dialog instance on each call. It accepts viewContainerRef of component and options object as arguments.
+Method allows to open dialog window. It creates new dialog instance on each call. It accepts viewContainerRef of component and options object as arguments.
 
-```viewContainerRef {viewContainerRef}``` - viewContainerRef of current component
+```viewContainerRef {viewContainerRef}``` - viewContainerRef of component from which you call ```openModal``` method
 
 ##### ```options```
 
