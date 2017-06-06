@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/agilie/ng2-dialog-window)
+
 # ng2-dialog-window
 
 Dialog window module which allows to open dialog window using custom components. Any data could be easily send to component.
