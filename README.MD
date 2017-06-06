@@ -104,6 +104,12 @@ Method allows to open dialog window. Creates new dialog instance on each call. I
 
 ```close()``` - extended method from base dialog component. Closes dialog window.
 
+## TODOs
+
+1. Add more options (closeByClick, showCloseButton etc.)
+2. Add tests
+3. TBD
+
 ## Troubleshooting
 Problems? Check the [Issues](https://github.com/agilie/ng2-dialog-window/issues) block 
 to find the solution or create an new issue that we will fix asap. Feel free to contribute.
