@@ -67,7 +67,7 @@ export class AppComponent {
 
 }
 ```
-You need to extend your dialog component from ```Ng2DialogWindowComponent``` to inherit base methods of dialog window. And wrap your template in ```ng2-dialog-window-component``` tag to extend dialog window base styles.
+You need to extend your dialog component from ```Ng2DialogWindowComponent``` to inherit base methods of dialog window and wrap your template in ```ng2-dialog-window-component``` tag to extend dialog window base styles.
 
 It seems like Angular doesn't provide any simple way to inherit styles from another component. Feel free to create an issue ticket if you think I am wrong.
 
