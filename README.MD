@@ -18,13 +18,13 @@ $ npm install @agilie/ng2-dialog-window --save
 import { NgModule } from '@angular/core';
 import { YourDialogWindowComponent } from './component/path'
 import { AppComponent } from './app.component'
-import { Ng2ModalWindowModule, Ng2DialogWindowService } from 'ng2-dialog-window';
+import { Ng2DialogWindowModule, Ng2DialogWindowService } from 'ng2-dialog-window';
 
  
 @NgModule({
     imports: [
         // ... 
-        Ng2ModalWindowModule
+        Ng2DialogWindowModule
     ],
     declarations: [
         AppComponent,
