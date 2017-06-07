@@ -128,3 +128,4 @@ This Angular module is open-sourced by [Agilie Team](https://www.agilie.com) <in
 
 ## License
 The [MIT](LICENSE.MD) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com)
+
