@@ -110,6 +110,7 @@ Method allows to open dialog window. It creates new dialog instance on each call
 
 1. Add more options (closeByClick, showCloseButton etc.)
 2. Add possibility to open dialog window from services
+3. Add animation
 4. Add demo
 5. Add tests
 6. TBD
