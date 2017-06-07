@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/agilie/ng2-dialog-window)
+[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/@agilie/ng2-dialog-window)
 
 # ng2-dialog-window
 
