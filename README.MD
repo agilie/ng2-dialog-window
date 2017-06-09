@@ -2,7 +2,7 @@
 
 # ng2-dialog-window
 
-Dialog window module which allows to open dialog window using custom components. Any data could be easily send to component.
+Dialog window module for Angular (Angular 2) applications which allows to open dialog window using custom components. Any data could be easily send to component.
 
 ## Installation
 
