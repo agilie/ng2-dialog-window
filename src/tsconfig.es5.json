@@ -21,8 +21,8 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
-    "flatModuleOutFile": "ng2-modal-window.js",
-    "flatModuleId": "ng2-modal-window"
+    "flatModuleOutFile": "ng2-dialog-window.js",
+    "flatModuleId": "ng2-dialog-window"
   },
   "files": [
     "./index.ts"
