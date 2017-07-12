@@ -124,7 +124,12 @@ This Angular module is open-sourced by [Agilie Team](https://www.agilie.com) <in
 
 ## Contributors
 
-[Maks Nechesonov](https://github.com/NechiK) - <maks.nechesonov@agilie.com>
+[Maks Nechesonov](https://github.com/NechiK)
+
+## Contact us
+If you have any questions, suggestions or just need a help with web or mobile development, please email us at <web@agilie.com>. You can ask us anything from basic to complex questions. 
+
+We will continue publishing new open-source projects. Stay with us, more updates will follow!
 
 ## License
 The [MIT](LICENSE.MD) License (MIT) Copyright © 2017 [Agilie Team](https://www.agilie.com)
